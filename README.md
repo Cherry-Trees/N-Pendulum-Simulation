@@ -1,1 +1,3 @@
-# n-pendulum
+# Python n-pendulum simulation
+
+n pendulum
