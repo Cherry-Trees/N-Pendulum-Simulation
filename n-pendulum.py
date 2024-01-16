@@ -1,3 +1,7 @@
+'''
+n-pendulum simulation using Lagrangian formulation
+Assumes pendulum arms are rigid and m=0
+'''
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
 from matplotlib.animation import FuncAnimation
