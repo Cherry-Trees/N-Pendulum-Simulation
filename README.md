@@ -21,7 +21,10 @@ An n-pendulum simulation written in Python 3 that utilizes Scipy's odeint functi
 </p>
 
 <p>
-  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/angles2.png" width="350" height="350"/>
+  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/angle2.png" width="350" height="350"/>
+  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/path2.png" width="350" height="350"/>
+  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/energy2.png" width="350" height="350"/>
+  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/deift2.png" width="350" height="350"/>
   
 </p>
 
