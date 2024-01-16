@@ -4,5 +4,9 @@ An n-pendulum simulation written in Python 3 that utilizes Scipy's odeint functi
 
 # Examples
 
-add examples
+### Standard Double Pendulum
+
+A double pendulum (n=2) with both masses 1 and rod lengths 1, with initial conditions angle1=90deg and angle2=90deg, yields the following results:
+
+
 
