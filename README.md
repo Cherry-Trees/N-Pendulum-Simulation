@@ -52,15 +52,6 @@ A triple pendulum (n=3) masses 1, rod lengths 1, 0.75, 0.5, and initial angles 9
     
 </p>
 
-Additionally, we can plot some of the system's properties, including each of the pendulum's angles over time, the path the pendulums took (x and y), the pendulum's individual energies, and the total energy drift of the system:
-<p align="center">
-  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/angle2.png" width="400" height="300"/>
-  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/path2.png" width="400" height="300"/>
-  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/energy2.png" width="400" height="300"/>
-  <img src="https://github.com/Cherry-Trees/n-pendulum/blob/main/examples/drift2.png" width="400" height="300"/>
-  
-</p>
-
 
 
 
