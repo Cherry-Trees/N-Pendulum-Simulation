@@ -44,7 +44,7 @@ And for the system's properties:
 <br></br>
 
 ## Triple Pendulum of Uneven Lengths
-A triple pendulum (n=3) masses 1, rod lengths 1, 0.75, 0.5, and initial angles 90 deg yields the following results:
+A triple pendulum (n=3) masses 1, rod lengths 1, 0.75, 0.5, and initial angles 90 deg:
 <p align="center">
   
 
